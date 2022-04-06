@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "browser-sync start --server --no-inject-changes --files './'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0"
+  }
+}
